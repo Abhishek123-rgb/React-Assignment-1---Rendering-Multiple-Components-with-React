@@ -3,7 +3,10 @@ import '../styles/App.css';
 
 const App = () => {
   return (
-    <p>I am learning React. My life is getting better.</>
+    <div>
+    <h1>Myntra</h1>
+    <p>I want to make clone of myntra app</p>
+    </div>
   )
 }
 
